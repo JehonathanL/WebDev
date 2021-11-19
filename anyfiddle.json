@@ -1,0 +1,7 @@
+{
+    "defaultCommand": "serve",
+    "port": 8080,
+    "preview": true,
+    "autorun": true,
+    "autoReload": true
+}
