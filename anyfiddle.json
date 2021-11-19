@@ -1,6 +1,10 @@
 {
+    "openFiles":[
+        "Librun.html"
+    ],
+    "selectedFile": "Librun.html",
     "defaultCommand": "serve",
-    "port": 8080,
+    "port": 3000,
     "preview": true,
     "autorun": true,
     "autoReload": true
